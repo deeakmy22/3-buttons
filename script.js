@@ -1,5 +1,4 @@
 const MAX_BTN = 3;
-
 const randomNr = Math.floor(Math.random() * MAX_BTN) + 1;
 
 function checkWinner(currentBtn) {
